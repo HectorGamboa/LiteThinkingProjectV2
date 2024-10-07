@@ -4,6 +4,204 @@
     "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Infraestructure\\Pipeline.Infraestructure.csproj": {}
   },
   "projects": {
+    "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Application\\Pipeline.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Application\\Pipeline.Application.csproj",
+        "projectName": "Pipeline.Application",
+        "projectPath": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Application\\Pipeline.Application.csproj",
+        "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Domain\\Pipeline.Domain.csproj": {
+                "projectPath": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Domain\\Pipeline.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Ardalis.GuardClauses": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.21.0-beta.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.3.0, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.41.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0-preview.5.24306.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0-preview.5.24306.7, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.0-preview.5.24306.7, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[9.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Domain\\Pipeline.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Domain\\Pipeline.Domain.csproj",
+        "projectName": "Pipeline.Domain",
+        "projectPath": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Domain\\Pipeline.Domain.csproj",
+        "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Utilities\\Pipeline.Utilities.csproj": {
+                "projectPath": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Utilities\\Pipeline.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0-preview.5.24306.7, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0-preview.5.24306.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Infraestructure\\Pipeline.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -12,6 +210,85 @@
         "projectPath": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Infraestructure\\Pipeline.Infraestructure.csproj",
         "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Application\\Pipeline.Application.csproj": {
+                "projectPath": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Application\\Pipeline.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0-preview.5.24306.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0-preview.5.24306.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Utilities\\Pipeline.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Utilities\\Pipeline.Utilities.csproj",
+        "projectName": "Pipeline.Utilities",
+        "projectPath": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Utilities\\Pipeline.Utilities.csproj",
+        "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +322,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

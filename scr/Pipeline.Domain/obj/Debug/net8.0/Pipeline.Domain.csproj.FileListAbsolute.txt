@@ -10,3 +10,7 @@ C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\P
 C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Domain\obj\Debug\net8.0\refint\Pipeline.Domain.dll
 C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Domain\obj\Debug\net8.0\Pipeline.Domain.pdb
 C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Domain\obj\Debug\net8.0\ref\Pipeline.Domain.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Domain\bin\Debug\net8.0\Pipeline.Utilities.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Domain\bin\Debug\net8.0\Pipeline.Utilities.pdb
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Domain\obj\Debug\net8.0\Pipeline.Domain.csproj.AssemblyReference.cache
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Domain\obj\Debug\net8.0\Pipeline.9F646127.Up2Date

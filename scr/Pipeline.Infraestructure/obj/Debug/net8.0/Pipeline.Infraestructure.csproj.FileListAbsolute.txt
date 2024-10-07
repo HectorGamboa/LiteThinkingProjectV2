@@ -10,3 +10,16 @@ C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\P
 C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Infraestructure\obj\Debug\net8.0\refint\Pipeline.Infraestructure.dll
 C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Infraestructure\obj\Debug\net8.0\Pipeline.Infraestructure.pdb
 C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Infraestructure\obj\Debug\net8.0\ref\Pipeline.Infraestructure.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Infraestructure\bin\Debug\net8.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Infraestructure\bin\Debug\net8.0\Cosmos.CRTCompat.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Infraestructure\bin\Debug\net8.0\msvcp140.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Infraestructure\bin\Debug\net8.0\vcruntime140.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Infraestructure\bin\Debug\net8.0\vcruntime140_1.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Infraestructure\bin\Debug\net8.0\Pipeline.Application.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Infraestructure\bin\Debug\net8.0\Pipeline.Domain.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Infraestructure\bin\Debug\net8.0\Pipeline.Utilities.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Infraestructure\bin\Debug\net8.0\Pipeline.Application.pdb
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Infraestructure\bin\Debug\net8.0\Pipeline.Domain.pdb
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Infraestructure\bin\Debug\net8.0\Pipeline.Utilities.pdb
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Infraestructure\obj\Debug\net8.0\Pipeline.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Infraestructure\obj\Debug\net8.0\Pipeline.3F6365E4.Up2Date

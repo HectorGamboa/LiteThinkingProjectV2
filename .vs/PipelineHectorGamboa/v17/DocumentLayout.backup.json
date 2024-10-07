@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{043B25B1-AAA1-4261-BE0F-57F25E220BAA}|scr\\Pipeline.Utilities\\Pipeline.Utilities.csproj|c:\\users\\hecto\\desktop\\curso_microservicios_net\\reto2\\pipelinehectorgamboa\\scr\\pipeline.utilities\\pipeline.utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{043B25B1-AAA1-4261-BE0F-57F25E220BAA}|scr\\Pipeline.Utilities\\Pipeline.Utilities.csproj|solutionrelative:scr\\pipeline.utilities\\pipeline.utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7BCE0554-E8F2-43EA-B4F9-13E8A697D061}|scr\\Pipeline.Api\\Pipeline.Api.csproj|c:\\users\\hecto\\desktop\\curso_microservicios_net\\reto2\\pipelinehectorgamboa\\scr\\pipeline.api\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCE0554-E8F2-43EA-B4F9-13E8A697D061}|scr\\Pipeline.Api\\Pipeline.Api.csproj|solutionrelative:scr\\pipeline.api\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{043B25B1-AAA1-4261-BE0F-57F25E220BAA}|scr\\Pipeline.Utilities\\Pipeline.Utilities.csproj|c:\\users\\hecto\\desktop\\curso_microservicios_net\\reto2\\pipelinehectorgamboa\\scr\\pipeline.utilities\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{043B25B1-AAA1-4261-BE0F-57F25E220BAA}|scr\\Pipeline.Utilities\\Pipeline.Utilities.csproj|solutionrelative:scr\\pipeline.utilities\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BCE0554-E8F2-43EA-B4F9-13E8A697D061}|scr\\Pipeline.Api\\Pipeline.Api.csproj|c:\\users\\hecto\\desktop\\curso_microservicios_net\\reto2\\pipelinehectorgamboa\\scr\\pipeline.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCE0554-E8F2-43EA-B4F9-13E8A697D061}|scr\\Pipeline.Api\\Pipeline.Api.csproj|solutionrelative:scr\\pipeline.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Pipeline.Utilities",
-              "DocumentMoniker": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Utilities\\Pipeline.Utilities.csproj",
-              "RelativeDocumentMoniker": "scr\\Pipeline.Utilities\\Pipeline.Utilities.csproj",
-              "ToolTip": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Utilities\\Pipeline.Utilities.csproj*",
-              "RelativeToolTip": "scr\\Pipeline.Utilities\\Pipeline.Utilities.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-07T00:20:36.004Z",
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Api\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "scr\\Pipeline.Api\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Api\\Controllers\\FileController.cs*",
+              "RelativeToolTip": "scr\\Pipeline.Api\\Controllers\\FileController.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T00:51:07.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Engine.cs",
-              "DocumentMoniker": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Utilities\\Core\\Engine.cs",
-              "RelativeDocumentMoniker": "scr\\Pipeline.Utilities\\Core\\Engine.cs",
-              "ToolTip": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Utilities\\Core\\Engine.cs",
-              "RelativeToolTip": "scr\\Pipeline.Utilities\\Core\\Engine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Api\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "scr\\Pipeline.Api\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Reto2\\PipelineHectorGamboa\\scr\\Pipeline.Api\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "scr\\Pipeline.Api\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T00:20:11.011Z",
+              "WhenOpened": "2024-10-07T00:48:01.223Z",
               "EditorCaption": ""
             }
           ]

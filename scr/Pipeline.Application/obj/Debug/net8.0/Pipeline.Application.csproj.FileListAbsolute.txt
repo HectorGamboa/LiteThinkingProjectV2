@@ -10,3 +10,14 @@ C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\P
 C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Application\obj\Debug\net8.0\refint\Pipeline.Application.dll
 C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Application\obj\Debug\net8.0\Pipeline.Application.pdb
 C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Application\obj\Debug\net8.0\ref\Pipeline.Application.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Application\obj\Debug\net8.0\Pipeline.Application.csproj.AssemblyReference.cache
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Application\bin\Debug\net8.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Application\bin\Debug\net8.0\Cosmos.CRTCompat.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Application\bin\Debug\net8.0\msvcp140.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Application\bin\Debug\net8.0\vcruntime140.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Application\bin\Debug\net8.0\vcruntime140_1.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Application\bin\Debug\net8.0\Pipeline.Domain.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Application\bin\Debug\net8.0\Pipeline.Utilities.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Application\bin\Debug\net8.0\Pipeline.Domain.pdb
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Application\bin\Debug\net8.0\Pipeline.Utilities.pdb
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Application\obj\Debug\net8.0\Pipeline.9D3995F3.Up2Date

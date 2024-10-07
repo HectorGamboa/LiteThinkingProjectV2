@@ -7,7 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="MediatR" Version="12.3.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pipeline.Application\Pipeline.Application.csproj" />
+    <ProjectReference Include="..\Pipeline.Infraestructure\Pipeline.Infraestructure.csproj" />
+    <ProjectReference Include="..\Pipeline.Utilities\Pipeline.Utilities.csproj" />
   </ItemGroup>
 
 </Project>

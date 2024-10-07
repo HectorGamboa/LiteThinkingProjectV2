@@ -10,3 +10,4 @@ C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\P
 C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Utilities\obj\Debug\net8.0\refint\Pipeline.Utilities.dll
 C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Utilities\obj\Debug\net8.0\Pipeline.Utilities.pdb
 C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Utilities\obj\Debug\net8.0\ref\Pipeline.Utilities.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Utilities\obj\Debug\net8.0\Pipeline.Utilities.csproj.AssemblyReference.cache
