@@ -1,0 +1,12 @@
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Utilities\bin\Debug\net8.0\Pipeline.Utilities.deps.json
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Utilities\bin\Debug\net8.0\Pipeline.Utilities.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Utilities\bin\Debug\net8.0\Pipeline.Utilities.pdb
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Utilities\obj\Debug\net8.0\Pipeline.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Utilities\obj\Debug\net8.0\Pipeline.Utilities.AssemblyInfoInputs.cache
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Utilities\obj\Debug\net8.0\Pipeline.Utilities.AssemblyInfo.cs
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Utilities\obj\Debug\net8.0\Pipeline.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Utilities\obj\Debug\net8.0\Pipeline.Utilities.sourcelink.json
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Utilities\obj\Debug\net8.0\Pipeline.Utilities.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Utilities\obj\Debug\net8.0\refint\Pipeline.Utilities.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Utilities\obj\Debug\net8.0\Pipeline.Utilities.pdb
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Reto2\PipelineHectorGamboa\scr\Pipeline.Utilities\obj\Debug\net8.0\ref\Pipeline.Utilities.dll
